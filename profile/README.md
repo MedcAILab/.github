@@ -1,4 +1,4 @@
-# MedAILab Introduction
+# Introduction
 ![假装是logo](https://github.com/MedcAILab/.github/blob/main/lab_logo.jpg)
 
 The Medical AI Lab of Shenzhen University, in cooperation with the First Affiliated Hospital of Sun Yat-sen University and other well-known hospitals in and outside the province, has carried out research on AI analysis methods of medical big data, and has carried out application and transformation in cancer, brain disease, digestive tract disease, vascular disease, oral cavity disease and other aspects.
