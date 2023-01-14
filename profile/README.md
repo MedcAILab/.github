@@ -3,8 +3,9 @@
 
 The Medical AI Lab of Shenzhen University, in cooperation with the First Affiliated Hospital of Sun Yat-sen University and other well-known hospitals in and outside the province, has carried out research on AI analysis methods of medical big data, and has carried out application and transformation in cancer, brain disease, digestive tract disease, vascular disease, oral cavity disease and other aspects.
 
-## Main project
-
+## Major research interests
+  __①Lesion detection/segmentation based on medical image and prior knowledge
+  ②Radiomics ③Pathophysiological interpretation of image characteristics__
 ## Project code
   [__DSFR__ Deep Semantic Segmentation Feature-based Radiomics for the Classification Tasks in Medical Image Analysis](https://github.com/MedcAILab/DSFR)
   
